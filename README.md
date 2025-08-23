@@ -10,5 +10,17 @@ Every file here is a step toward becoming a better problem solver.
 - Growing as I learn ✨
 
 ---
+## 📌 Problem List
+
+| #   | Problem Name       | File Link                          | Approach / Notes        |
+|-----|--------------------|-------------------------------------|-------------------------|
+| 1   | Two Sum            | [problem1.cpp](./problem1.cpp)      | Hash map / brute force  |
+| 15  | 3Sum               | [problem15.cpp](./problem15.cpp)    | Sorting + two pointers  |
+| 18  | 4Sum               | [problem18.cpp](./problem18.cpp)    | Sorting + two pointers  |
+| 50  | Pow(x, n)          | [problem50.cpp](./problem50.cpp)    | Fast exponentiation     |
+| 69  | Sqrt(x)            | [pproblem69.cpp](./pproblem69.cpp)  | Binary search           |
+| 167 | Two Sum II (sorted)| [problem167.cpp](./problem167.cpp)  | Two pointers            |
+
+
 
 💡 *Not just answers, but the process of learning DSA.*
