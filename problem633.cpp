@@ -3,7 +3,7 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        long a =0, b=sqrt(c);
+        long a =0, b= sqrt(c);
         while(a<=b){
             long result = a *a + b * b;
             if(result == c)
