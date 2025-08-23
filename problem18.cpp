@@ -1,8 +1,4 @@
 // leetcode problem 18
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
 
 class Solution {
 public:
@@ -40,20 +36,3 @@ public:
         return ans;
     }
 };
-
-int main() {
-    Solution sol;
-    vector<int> nums = {1, 0, -1, 0, -2, 2};
-    int target = 0;
-
-    vector<vector<int>> result = sol.fourSum(nums, target);
-
-    // Print results
-    for (auto& quad : result) {
-        cout << "[ ";
-        for (int num : quad) cout << num << " ";
-        cout << "]\n";
-    }
-
-    return 0;
-}
