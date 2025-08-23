@@ -1,9 +1,4 @@
 // leet code problem 15
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
-using namespace std;
 
 class Solution {
 public:
@@ -40,19 +35,3 @@ public:
         return result;
     }
 };
-
-int main() {
-    Solution sol;
-    vector<int> nums = {-1, 0, 1, 2, -1, -4};
-    
-    vector<vector<int>> res = sol.threeSum(nums);
-
-    cout << "Triplets that sum to 0 are:\n";
-    for (auto& triplet : res) {
-        cout << "[ ";
-        for (int num : triplet) cout << num << " ";
-        cout << "]\n";
-    }
-
-    return 0;
-}
