@@ -12,14 +12,19 @@ Every file here is a step toward becoming a better problem solver.
 ---
 ## 📌 Problem List
 
-| #   | Problem Name       | File Link                          | Approach / Notes        |
-|-----|--------------------|-------------------------------------|-------------------------|
-| 1   | Two Sum            | [problem1.cpp](./problem1.cpp)      | Hash map / brute force  |
-| 15  | 3Sum               | [problem15.cpp](./problem15.cpp)    | Sorting + two pointers  |
-| 18  | 4Sum               | [problem18.cpp](./problem18.cpp)    | Sorting + two pointers  |
-| 50  | Pow(x, n)          | [problem50.cpp](./problem50.cpp)    | Fast exponentiation     |
-| 69  | Sqrt(x)            | [pproblem69.cpp](./pproblem69.cpp)  | Binary search           |
-| 167 | Two Sum II (sorted)| [problem167.cpp](./problem167.cpp)  | Two pointers            |
+| #    | Problem Name           | File Link                            | Approach / Notes        |
+|------|------------------------|---------------------------------------|-------------------------|
+| 1    | Two Sum                | [problem1.cpp](./problem1.cpp)        | Hash map / brute force  |
+| 15   | 3Sum                   | [problem15.cpp](./problem15.cpp)      | Sorting + two pointers  |
+| 18   | 4Sum                   | [problem18.cpp](./problem18.cpp)      | Sorting + two pointers  |
+| 50   | Pow(x, n)              | [problem50.cpp](./problem50.cpp)      | Fast exponentiation     |
+| 69   | Sqrt(x)                | [pproblem69.cpp](./pproblem69.cpp)    | Binary search           |
+| 167  | Two Sum II (sorted)    | [problem167.cpp](./problem167.cpp)    | Two pointers            |
+| 633  | Sum of Squares         | [problem633.cpp](./problem633.cpp)    | Two Pointers            |
+|      | Numbers                                                                                  |
+| 367  | Valid Perfect Square   | [problem367.cpp](./problem6367.cpp)   | Binary Search           |
+| 2200 | Find All K-Distant     |                                       |                         |
+|      | Indices in an Array    | [problem2200.cpp](./problem22000.cpp) | Binary Search           |
 
 
 
