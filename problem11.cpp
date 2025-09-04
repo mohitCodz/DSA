@@ -6,7 +6,9 @@ public:
        {
        for (int j = i+1; j < n; j++)
        {
-       int width = j-1; //
+       int width = j-1; // width
+       height = min(height[i],height[j]);
+       int area =
        }
        
        }
