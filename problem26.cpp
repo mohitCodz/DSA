@@ -1,1 +1,1 @@
-// leetCode  question 26 - Remove Duplicates from Sorted Array
+// leetCode  question 26 - Remove Duplicates from Sorted Array using 2 Pointer approach
