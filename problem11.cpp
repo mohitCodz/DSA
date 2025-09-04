@@ -8,7 +8,7 @@ public:
        {
        int width = j-1; // width
        height = min(height[i],height[j]);
-       int area =
+       int area = width * height;
        }
        
        }
