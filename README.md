@@ -25,7 +25,8 @@ Every file here is a step toward becoming a better problem solver.
 | 367  | Valid Perfect Square   | [problem367.cpp](./problem6367.cpp)   | Binary Search           |
 | 2200 | Find All K-Distant     |                                       |                         |
 |      | Indices in an Array    | [problem2200.cpp](./problem22000.cpp) | Binary Search           |
-
+| 11   | Container with Most 
+|      | water.                 | [problem11.cpp](./problem11.cpp)      | 2 Pointer / Brute force |
 
 
 💡 *Not just answers, but the process of learning DSA.*
