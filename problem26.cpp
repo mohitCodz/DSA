@@ -9,6 +9,6 @@ public:
             if(nums[i] != nums[lastUnique]) lastUnique++;
             nums[lastUnique] = nums[i];
         }
-        return lastUnique +1;
+        return lastUnique +1; // new length
     }
 };
