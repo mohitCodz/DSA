@@ -6,7 +6,7 @@ public:
        {
        for (int j = i+1; j < n; j++)
        {
-        /* code */
+       int width = j-1; //
        }
        
        }
