@@ -9,9 +9,11 @@ public:
        int width = j-1; // width
        height = min(height[i],height[j]);
        int area = width * height;
+       maxArea = max(maxArea,area);
        }
        
        }
+       return maxArea;
         
     }
 };
