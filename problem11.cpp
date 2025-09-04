@@ -1,6 +1,6 @@
 // leetCode problem number 11 - container with most water
 
-// using Brute Force
+// using Brute Force Approach
 class Solution {
 public:
     int maxArea(vector<int>& height) {
