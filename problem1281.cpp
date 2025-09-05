@@ -1,4 +1,4 @@
-// leetCode problem 1281 - 
+// leetCode problem 1281 -  Subtract the Product and Sum of Digits of an Integer
 
 class Solution {
 public:
