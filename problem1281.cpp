@@ -8,7 +8,7 @@ public:
             int digit = n%10;
             product *=digit;
             sum += digit;
-            n/=10; 
+            n/=10;  // remove last digit
         }
         return product - sum;
     }
