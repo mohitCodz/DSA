@@ -7,7 +7,7 @@ public:
         while(n>0){
             int digit = n%10;
             product *=digit;
-            sum += digit;
+            sum += digit; // sum
             n/=10;  // remove last digit
         }
         return product - sum;
