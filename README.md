@@ -33,6 +33,7 @@ Every file here is a step toward becoming a better problem solver.
 | 136  | Single Number          | [problem136.cpp](./problem136.cpp)    | Bit Manipulation (XOR)  | 
 | 122  | Best Time TO Buy and   | [problem122.cpp](./problem122.cpp)    |  Greedy Approach        | 
 |      | Sell Stock             |                                       |                         | 
+| 1672 | Customer with maxWealth| [problem1672.cpp](./problem1672.cpp)  | Brute Force             | 
 
 
 
