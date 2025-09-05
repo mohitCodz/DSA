@@ -6,7 +6,7 @@ public:
         int product =1,sum=0;
         while(n>0){
             int digit = n%10;
-            product *=digit;
+            product *=digit; // product
             sum += digit; // sum
             n/=10;  // remove last digit
         }
