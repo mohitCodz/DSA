@@ -13,7 +13,7 @@ public:
             digits[i] = 0;  // carry over
         }
         
-        // If all digits were 9, we need to add a leading 1
+        // If all digits were 9, we need to add a leading 1 ( put 1 at the start)
         digits.insert(digits.begin(), 1);
         return digits;
     }
