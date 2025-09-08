@@ -36,6 +36,7 @@ Every file here is a step toward becoming a better problem solver.
 | 1672 | Customer with maxWealth     | [problem1672.cpp](./problem1672.cpp)  | Brute Force                  | 
 | 1281 | Subtract the Product and    | [problem1281.cpp](./problem1281.cpp)  | Iterative Approach (% and /) |
 |      | Sum of Digits of an Integer |                                       |                              |
+| 9    | Palindrome Number           | [problem9.cpp](./problem9.cpp)        | Reverse                      | 
 
 
 
