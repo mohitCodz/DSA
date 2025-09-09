@@ -38,6 +38,7 @@ Every file here is a step toward becoming a better problem solver.
 |      | Sum of Digits of an Integer |                                       |                              |
 | 9    | Palindrome Number           | [problem9.cpp](./problem9.cpp)        | Reverse                      | 
 | 7    | Reverse number              | [problem7.cpp](./problem7.cpp)        | Reverse                      |
+| 258  | Add Digits                  | [problem258.cpp](./problem258.cpp)    | Modulus (%) & Division (/)   |
 
 
 
