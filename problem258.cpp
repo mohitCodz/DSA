@@ -10,7 +10,7 @@ public:
                 sum += num % 10;
                 num /= 10;
             }
-            num = sum;
+            num = sum; //
         }
         return num;
     }
