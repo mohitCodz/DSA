@@ -40,6 +40,7 @@ Every file here is a step toward becoming a better problem solver.
 | 7    | Reverse number              | [problem7.cpp](./problem7.cpp)        | Reverse                      |
 | 258  | Add Digits                  | [problem258.cpp](./problem258.cpp)    | Modulus (%) & Division (/)   |
 | 263  | Ugly Number                 | [problem263.cpp](./problem263.cpp)    | Modulus (%) & Division (/)   |
+| 326  | Power of three              | [problem326.cpp](./problem326.cpp)    | Iterative Check              |
 
 
 
