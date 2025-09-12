@@ -42,6 +42,7 @@ Every file here is a step toward becoming a better problem solver.
 | 263  | Ugly Number                 | [problem263.cpp](./problem263.cpp)    | Modulus (%) & Division (/)   |
 | 326  | Power of three              | [problem326.cpp](./problem326.cpp)    | Iterative Check              |
 | 507  | Perfect Number              | [problem507.cpp](./problem507.cpp)    | Repeated Division            |
+| 33   | Rotated Sorted Array        | [problem33.cpp](./problem33.cpp)    | Repeated Division            |
 
 
 
